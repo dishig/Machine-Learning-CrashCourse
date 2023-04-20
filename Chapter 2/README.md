@@ -75,7 +75,7 @@ As you might have seen in the previous assignment, we had over 10+ features whic
 
 So its neccessary to identify the top useful features and train the model only with those model
 
-One common technique is to use Pearson Correalation to calculate to correlation of each of the feature to the target variable. You can learn more about it in the below video.
+One common technique is to use Pearson Correlation to calculate to correlation of each of the feature to the target variable. You can learn more about it in the below video.
 
 [![Video: 12 Machine learning in python || Correlation Analysis and Feature Selection](https://img.youtube.com/vi/BCuIq206lrA/0.jpg)](https://www.youtube.com/watch?v=BCuIq206lrA "12 Machine learning in python || Correlation Analysis and Feature Selection")
 
